@@ -14,8 +14,7 @@ const Skills = () => {
           <h4>(But you can also call me)</h4>
           <br />
           <h3>
-            Your Friendly Neighbourhood Procastinator 👩‍💻 from
-            <span>Bangalore, India.</span>
+            Your Friendly Neighbourhood Procastinator 👩‍💻 from <span>Bangalore, India.</span>
           </h3>
           <img src={search} width="40%"alt="gif-not-found"/>
         </div>
